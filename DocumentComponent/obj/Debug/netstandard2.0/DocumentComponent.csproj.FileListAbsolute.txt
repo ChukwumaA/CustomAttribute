@@ -1,0 +1,10 @@
+C:\Users\Chikosolu Akunyili\RiderProjects\Task 5\DocumentComponent\bin\Debug\netstandard2.0\DocumentComponent.deps.json
+C:\Users\Chikosolu Akunyili\RiderProjects\Task 5\DocumentComponent\bin\Debug\netstandard2.0\DocumentComponent.dll
+C:\Users\Chikosolu Akunyili\RiderProjects\Task 5\DocumentComponent\bin\Debug\netstandard2.0\DocumentComponent.pdb
+C:\Users\Chikosolu Akunyili\RiderProjects\Task 5\DocumentComponent\obj\Debug\netstandard2.0\DocumentComponent.csproj.AssemblyReference.cache
+C:\Users\Chikosolu Akunyili\RiderProjects\Task 5\DocumentComponent\obj\Debug\netstandard2.0\DocumentComponent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chikosolu Akunyili\RiderProjects\Task 5\DocumentComponent\obj\Debug\netstandard2.0\DocumentComponent.AssemblyInfoInputs.cache
+C:\Users\Chikosolu Akunyili\RiderProjects\Task 5\DocumentComponent\obj\Debug\netstandard2.0\DocumentComponent.AssemblyInfo.cs
+C:\Users\Chikosolu Akunyili\RiderProjects\Task 5\DocumentComponent\obj\Debug\netstandard2.0\DocumentComponent.csproj.CoreCompileInputs.cache
+C:\Users\Chikosolu Akunyili\RiderProjects\Task 5\DocumentComponent\obj\Debug\netstandard2.0\DocumentComponent.dll
+C:\Users\Chikosolu Akunyili\RiderProjects\Task 5\DocumentComponent\obj\Debug\netstandard2.0\DocumentComponent.pdb

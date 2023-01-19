@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "InhBfPN23Tf80sobXLDP8qY23hQJHHCu9DxKuOvofW926mhS7T1zIYV7TxzWDYhSPS29wLRlplxhNp1xRHGHZw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Chikosolu Akunyili\\RiderProjects\\Task 5\\DocumentComponent\\DocumentComponent.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Chikosolu Akunyili\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Chikosolu Akunyili\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
